@@ -30,7 +30,7 @@ Podemos considerar este projeto como sendo divido em duas partes:
 
 ## <a href="https://github.com/YgorMendanha/Chat_App">Front End. </a>
 
-## <a href="https://github.com/YgorMendanha/Chat_app-api">Back End. </a>
+## <a href="https://github.com/YgorMendanha/Chat_app_Back-end">Back End. </a>
 
 <br>
 
@@ -44,15 +44,15 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 Para um experiencia completa é necessário ter dois, ou mais, usuarios logados na mesma sala ( Você pode ter duas abas abertas com usuarios diferente ;) )
 
 
-<h3 id="backend">🎲 Rodando o Back End (<a href="https://github.com/YgorMendanha/Chat_app-api">servidor</a>) </h2>
+<h3 id="backend">🎲 Rodando o Back End (<a href="https://github.com/YgorMendanha/Chat_app_Back-end">servidor</a>) </h2>
 
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/YgorMendanha/Chat_app-api>
+$ git clone <https://github.com/YgorMendanha/Chat_app_Back-end>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd chat_app-api
+$ cd chat-app-back
 
 # Instale as dependências
 $ npm install
@@ -72,7 +72,7 @@ $ npm run dev
 $ git clone <https://github.com/YgorMendanha/Chat_App>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd chat_app
+$ cd chat-app-front
 
 # Instale as dependências
 $ npm install
