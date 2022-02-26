@@ -10,7 +10,7 @@ const server = http.createServer(app)
 
 const io = new Server (server,{
     cors:{
-        origin:"https://chat-app-seven-bice.vercel.app"
+        origin:"https://ygormendanha.github.io"
     }
 })
 
@@ -21,8 +21,8 @@ io.on('connection', async (socket)=>{
         socket.join(data);
         console.log(`User with ID: ${socket.id} Connect: ${data}`)
     })
-    socket.on('send_message', (data)=>{
-        socket.to(data.room).emit('receive_message', data)
+    socket.on('send_Message', (data)=>{
+        socket.to(data.room).emit('receive_Message', data)
     })
 
 

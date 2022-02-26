@@ -19,7 +19,7 @@
 <br>
 <h3 align="center"> 
 Veja o Projeto Online clicando 
- <a href="https://chat-app-seven-bice.vercel.app"> Aqui!</a>
+ <a href="https://ygormendanha.github.io/Chat_App/"> Aqui!</a>
 </h3>
 <br>
 <br>
